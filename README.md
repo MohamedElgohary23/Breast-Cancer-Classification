@@ -9,9 +9,9 @@ Machine Learning project to detect malignant and benign people
 
 
 ## :star: Dataset Description
-Data set is downloaded from Kaggle : https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction
+Data set is downloaded from Kaggle : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
 | Column name              | Description                                                |
-| :------------------------| :----------------------------------------------------------|
+| :------------------------| :----------------------------------------------------------
 | ID number                | Case number                                                |
 | radius                   | mean of distances from center to points on the perimeter   |
 | texture                  | standard deviation of gray-scale values                    |
